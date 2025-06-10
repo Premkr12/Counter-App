@@ -1,4 +1,4 @@
-# 🔢 React Counter App
+# 🔢 Counter App
 
 A simple and stylish counter application built using **ReactJS** with support for:
 
